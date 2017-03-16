@@ -1,0 +1,33 @@
+Circuit: * C:\Users\torica\git\LTs_repo\LPF_RC_step_R.asc
+
+Direct Newton iteration for .op point succeeded.
+.step r=100
+.step r=300
+.step r=500
+.step r=700
+.step r=900
+.step r=1100
+.step r=1300
+.step r=1500
+.step r=1700
+.step r=1900
+.step r=2000
+
+Date: Thu Mar 16 14:59:43 2017
+Total elapsed time: 0.203 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 8233
+traniter = 8230
+tranpoints = 4116
+accept = 2668
+rejected = 1448
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1:       3 opcodes  0.0/[0.0]/0.0
+Matrix Compiler2: off  [0.0]/0.1/0.0
+
+
