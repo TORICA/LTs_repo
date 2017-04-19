@@ -1,9 +1,0 @@
-* C:\Users\torica\git\LTs_repo\LPF_RC_step_f_sig.asc
-R1 SIG OUT {R}
-C1 OUT 0 {C}
-V1 SIG 0 SINE(1 1 {f_sig})
-.step param f_sig 100 2k 200
-.param C=10u R=300
-.tran 0 105m 100m
-.backanno
-.end
