@@ -1,0 +1,24 @@
+Circuit: * C:\Users\torica\git\LTs_repo\transistorNOT.asc
+
+Limiting rise time of source v2 to 0.01
+Limiting fall time of source v2 to 0.01
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri May 12 22:02:06 2017
+Total elapsed time: 0.058 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3374
+traniter = 3367
+tranpoints = 1492
+accept = 1358
+rejected = 134
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1: 196 bytes object code size  0.1/0.0/[0.0]
+Matrix Compiler2: off  [0.0]/0.1/0.1
+
+
